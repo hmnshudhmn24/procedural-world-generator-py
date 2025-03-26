@@ -33,6 +33,3 @@ python procedural_world_generator.py
 - Each tile in the world is assigned a biome based on random noise.
 - Different colors represent different biomes.
 - The world is displayed using Pygame and updates in real-time.
-
-## License
-This project is open-source and free to use.
